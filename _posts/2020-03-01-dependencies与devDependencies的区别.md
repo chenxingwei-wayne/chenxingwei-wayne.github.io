@@ -1,5 +1,3 @@
-#dependencies与devDependencies的区别
-
 npm install在安装node模块时，有两种命令参数可以把它们的信息写入package.json文件：
 –save
 –save-dev
